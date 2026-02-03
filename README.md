@@ -1,3 +1,7 @@
+# Note
+
+This repository was moved to [https://github.com/StataBS/quartierfarben](https://github.com/StataBS/quartierfarben) and is planned to be archived. The daily generation of tiles was making the commit history very large. You can still use this repository as a reference to adapt the project for your own city or canton.
+
 # Quartierfarben, aka Grätzlfarben, aka Kiezcolors
 
 *Quartierfarben* is a map based tool that creates a postcard showing the landuse distribution in your neighborhood in Basel-Stadt. It is based on the [Kiezcolors](https://kiezcolors.odis-berlin.de) tool of the [Open Data Informationsstelle Berlin](https://odis-berlin.de/) and the [Grätzlfarben](https://cartolab.at/graetzlfarben/) of the [TU Wien](https://cartography.tuwien.ac.at/).
