@@ -1,6 +1,7 @@
 # Note
 
-This repository was moved to [https://github.com/StataBS/quartierfarben](https://github.com/StataBS/quartierfarben) and is planned to be archived. The daily generation of tiles was making the commit history very large. You can still use this repository as a reference to adapt the project for your own city or canton.
+This repository was moved to [https://github.com/StataBS/quartierfarben](https://github.com/StataBS/quartierfarben) and is archived. The daily generation of tiles was making the commit history very large. 
+**You can still use this repository as a reference to adapt the project for your own city or canton.**
 
 # Quartierfarben, aka Grätzlfarben, aka Kiezcolors
 
